@@ -42,7 +42,6 @@ The **LSTM model** is designed to predict future values based on **time-series d
 ### **Model Diagram**
 ![image](https://github.com/user-attachments/assets/e66f12a4-8f55-4f00-8b18-d79fd3249142)
 
-
 ---
 
 ## Installation
@@ -55,16 +54,14 @@ The **LSTM model** is designed to predict future values based on **time-series d
    ```bash
    pip install -r requirements.txt
    ```
-3. **Run FastAPI backend:**
+3. **Run Jupyter Notebook:**
    ```bash
-   uvicorn main:app --reload
-   ```
-4. **Launch Gradio UI:**
-   ```bash
-   python gradio_ui.py
+   jupyter notebook
    ```
 
 ---
+
+
 
 ## Usage Guide
 ### **Uploading Data**
