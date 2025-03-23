@@ -3,6 +3,7 @@
 
 ## Overview
 This project is an **AI-powered predictive system** that utilizes **LSTM (Long Short-Term Memory) neural networks** to analyze and predict time-series data. The system includes an **interactive API (FastAPI)** and a **user-friendly Gradio interface** for seamless data processing, model training, and predictions.
+It is designed to monitor machine health in factories and provide early maintenance alerts, helping to reduce downtime and improve operational efficiency.
 
 ## Features
 - **CSV File Upload:** Users can upload datasets via FastAPI or Gradio.
