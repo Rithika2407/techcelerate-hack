@@ -1,5 +1,5 @@
 # techcelerate-hack
-# AI-Powered Predictive System
+# MaintAI - Maintanace and AI
 
 ## Overview
 This project is an **AI-powered predictive system** that utilizes **LSTM (Long Short-Term Memory) neural networks** to analyze and predict time-series data. The system includes an **interactive API (FastAPI)** and a **user-friendly Gradio interface** for seamless data processing, model training, and predictions.
