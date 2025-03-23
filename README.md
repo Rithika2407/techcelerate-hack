@@ -78,7 +78,13 @@ The **LSTM model** is designed to predict future values based on **time-series d
 ### **Making Predictions**
 - Users can enter numerical values in the UI or use FastAPI endpoint `/predict/`.
 - The system will output a predicted value based on past trends.
-![image](https://github.com/user-attachments/assets/9287e0ee-017c-420a-a346-34a8678ac8f5)
+  ![image](https://github.com/user-attachments/assets/b79faa98-3150-41f0-9f18-629fb03cdc5f)
+###**Falcon Chatbot**
+-Called the falcon bot locally n the model
+-Will answer to model specific questions
+![image](https://github.com/user-attachments/assets/dd3135dd-9238-4e2c-bcfc-723b5d944453)
+
+
 
 ---
 
